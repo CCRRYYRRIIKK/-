@@ -72,7 +72,17 @@ code .
 > Не запускайте файл двойным кликом из проводника Windows! Пути к скриптам при протоколе file:/// могут работать некорректно. Используйте только локальный веб-сервер.
 ---
 # Логи инициализации
-Нажмите, чтобы развернуть лог первого запуска Git
+<details open="">
+  <summary>Нажмите, чтобы развернуть лог первого запуска Git</summary>
+
+<pre><code class="language-text">Initialized empty Git repository in C:/Users/Student/Desktop/my-portfolio/.git/
+[main (root-commit) a1b2c3d] Initial commit
+3 files changed, 45 insertions(+)
+create mode 100644 index.html
+create mode 100644 styles/style.css
+create mode 100644 README.md
+</code></pre>
+</details>
 
 # Контакты
 
